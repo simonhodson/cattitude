@@ -1,5 +1,8 @@
 # cattitude
+### Screenshot of project on Samsung s9
 
+![Screenshot](Cattitude.jpg)
 
+Project for fun
 
-![ScreenShot](https://www.dropbox.com/s/wy2crzqyhnfdcs3/Screenshot_20190406-145342_Cattitude.jpg?dl=0)
+Requires [Unity](https://unity.com/ "Unity")
